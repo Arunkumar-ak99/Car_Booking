@@ -1,0 +1,53 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Creta SX",
+      "brand": "Hyundai",
+      "type": "SUV",
+      "price": 3200,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "description": "A comfortable and spacious SUV for city trips and weekend escapes.",
+      "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": 2,
+      "name": "Innova Crysta",
+      "brand": "Toyota",
+      "type": "MUV",
+      "price": 4500,
+      "seats": 7,
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "description": "A practical premium family vehicle with generous passenger and luggage space.",
+      "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": 3,
+      "name": "City ZX",
+      "brand": "Honda",
+      "type": "Sedan",
+      "price": 2800,
+      "seats": 5,
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "description": "A refined sedan that balances smooth performance, comfort, and efficiency.",
+      "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1200&q=85"
+    },
+    {
+      "id": 4,
+      "name": "Swift ZXI",
+      "brand": "Maruti Suzuki",
+      "type": "Hatchback",
+      "price": 1900,
+      "seats": 5,
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "description": "An easy-to-drive compact hatchback suited to everyday trips.",
+      "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1200&q=85"
+    }
+  ],
+  "bookings": []
+}
