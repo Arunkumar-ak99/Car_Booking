@@ -1,4 +1,4 @@
-export const API_URL = "http://localhost:3500";
+export const API_URL = "https://car-booking-vjpd.onrender.com";
 
 export async function getCars() {
   const response = await fetch(`${API_URL}/cars`);
